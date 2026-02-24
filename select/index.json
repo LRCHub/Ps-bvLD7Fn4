@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "異形",
+  "base_artist": "Dannie May",
+  "createdAt": "2026-02-24T08:05:08.301925Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "異形",
+      "artist": "Dannie May",
+      "has_synced": false,
+      "path": "select/pl_01_異形_Dannie_May.txt"
+    }
+  ]
+}
